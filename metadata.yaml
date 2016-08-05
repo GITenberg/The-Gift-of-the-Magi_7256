@@ -1,0 +1,29 @@
+_repo: The-Gift-of-the-Magi_7256
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Henry, O.
+    alias: Porter, William Sidney
+    birthdate: 1862
+    deathdate: 1910
+    gutenberg_agent_id: '634'
+    url: http://www.gutenberg.org/2009/agents/634
+    wikipedia: http://en.wikipedia.org/wiki/O._Henry
+description: ''
+gutenberg_bookshelf: Christmas
+gutenberg_issued: '2005-01-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '7256'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Christmas stories'
+- !lcsh 'Short stories'
+- !lcc 'PS'
+- !lcsh 'Gifts -- Fiction'
+- GITenberg
+title: The Gift of the Magi
+url: http://www.gutenberg.org/ebooks/7256
